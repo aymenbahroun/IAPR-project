@@ -1,6 +1,7 @@
 # IAPR-project
 The code files for the Image Analysis and Pattern Recognition course project at EPFL 
-With collaboration of : Zeno Messi and Deyanira Graciela Cisneros Lazaro 
+
+Other contributors : Zeno Messi and Deyanira Graciela Cisneros Lazaro 
 
 ### Main Task 
 Analyze the trajectory of a robot in a video sequence, and retrieve the formula and its answer and output it in a new video step by step.
